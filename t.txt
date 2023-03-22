@@ -1,6 +1,4 @@
 salutare lume Sorin.
-<<<<<<< HEAD
 sau poate nu 
-=======
 din nou
->>>>>>> aa88677750400d3c7422a8e59974a9001fefa88c
+
