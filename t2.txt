@@ -1,2 +1,6 @@
 din nou ceva
+<<<<<<< HEAD
 sau nu
+=======
+pentru rebase comit 1
+>>>>>>> faa4962 (rebase 1)
