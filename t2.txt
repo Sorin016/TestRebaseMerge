@@ -3,4 +3,8 @@ din nou ceva
 sau nu
 =======
 pentru rebase comit 1
+<<<<<<< HEAD
 >>>>>>> faa4962 (rebase 1)
+=======
+pentru rebase comit 2
+>>>>>>> 06283d8 (rebase 3)
